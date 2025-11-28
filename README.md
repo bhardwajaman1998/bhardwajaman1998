@@ -6,7 +6,7 @@
  <!-- <img src="https://github.com/bhardwajaman1998/bhardwajaman1998/blob/main/programmer_v_02.jpg" alt="Banner of a developer sitting in front of a desk"> -->
   
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=roboto&size=48&center=true&vCenter=true&width=500&height=70&color=red&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Bhardwaj!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=roboto&size=48&center=true&vCenter=true&width=500&height=70&color=red&duration=4000&lines=Hi+Visitor!+👋;+I'm+Aman+B.!;" />
 </h1>
 
 ### An iOS developer with 3+ years of experience in building beautiful, functional, and user-centric mobile applications.
@@ -29,7 +29,7 @@
 <hr>
 <h3 align="left">
 🛠️ Languages and Tools
-</h1>
+</h3>
 <br>
 <div></div>
 <p align="center">
@@ -40,15 +40,27 @@
 
 <hr>
 </div>
-
-## ⚡️ Stats
-
+<h3 align="left">
+⚡️ Stats
+</h3>
 <br>
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=bhardwajaman1998&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="bhardwajaman1998's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bhardwajaman1998&theme=transparent&count_private=true&border_radius=10&locale=en" alt="bhardwajaman1998's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=bhardwajaman1998&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="bhardwajaman1998's Most Used Languages" />
+</div>
+
+<hr>
+<h3 align="left">
+🐍 My Contributions
+</h3>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhardwajaman1998/bhardwajaman1998/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhardwajaman1998/bhardwajaman1998/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/bhardwajaman1998/bhardwajaman1998/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <hr>
